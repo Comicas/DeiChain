@@ -1,4 +1,4 @@
-# DEIChain — Relatório SO2
+# DEIChain
 
 ![DEIChain System Diagram](arquitetura.png)
 
